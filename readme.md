@@ -1,0 +1,1 @@
+Olá! Este é um site responsivo que busca simular a página principal do Spotify, um aplicativo de músicas.
